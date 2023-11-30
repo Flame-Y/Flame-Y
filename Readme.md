@@ -5,8 +5,7 @@
 
  <h3 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> There is Yan</h3>
 
- 
-**𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
+ ### 关于我 / 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚
 
 - 🏫 I am a front-end developer from China
 - 💦 Currently, we are brushing the algorithm and looking for internship
