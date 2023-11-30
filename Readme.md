@@ -1,41 +1,23 @@
 <div align="center">
 
-### Ciallo～(∠・ω< )⌒☆
+## Ciallo～(∠・ω< )⌒☆
+</div>
 
-<!--
+ <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> There is Yan</h2>
+**𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-
-
-**Flame-Y/Flame-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-\- 🔭 I’m currently working on ...
-
-\- 🌱 I’m currently learning ...
-
-\- 👯 I’m looking to collaborate on ...
-
-\- 🤔 I’m looking for help with ...
-
-\- 💬 Ask me about ...
-
-\- 📫 How to reach me: ...
-
-\- 😄 Pronouns: ...
-
-\- ⚡ Fun fact: ...
-
--->
-
+- 🏫 I am a front-end developer from China
+- 💦 Currently, we are brushing the algorithm and looking for internship
+- 🙈 I prefer to use React and TS to write front-end
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flame-Y)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 我的社交账户 / My social account
-
-[![](https://img.shields.io/badge/Flame_Y-blue?style=flat-square&logo=telegram&logoColor=blue)](https://t.me/Flame_Y)
-
-[![](https://img.shields.io/badge/BiliBili-169fe6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/22932134)
+<a href="https://homurafield.netlify.app/"><img src="https://img.shields.io/badge/blog-HomuraField-red" alt="blog"></a> [![](https://img.shields.io/badge/Flame_Y-blue?style=flat-square&logo=telegram)](https://t.me/Flame_Y)
 
 ### 我的电子邮箱 / My E-Mail
 
-[![](https://img.shields.io/badge/FlameY-@qq.com-skyblue?style=flat-square)](mailto:1248993272@qq.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoshiumyy@gmail.com)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flame-Y&layout=compact&theme=buefy&hide_border=true" alt="" />
