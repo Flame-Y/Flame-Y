@@ -21,4 +21,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-ruby-77.vercel.app/api?username=Flame-Y)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flame-Y&layout=compact&theme=buefy&hide_border=true" alt="" />
+<img align="center" src="https://github-readme-stats-six-ruby-77.vercel.app/api/top-langs/?username=Flame-Y&layout=compact&theme=buefy&hide_border=true" alt="" />
